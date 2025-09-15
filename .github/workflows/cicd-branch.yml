@@ -11,4 +11,6 @@ jobs:
       app_type : nginx
       app_name : frontend
 
+      
+
   
