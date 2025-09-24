@@ -10,3 +10,5 @@ jobs:
     with :
       app_type : nginx
       app_name : frontend
+      app_env : dev
+      enabled : false
